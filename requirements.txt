@@ -1,0 +1,7 @@
+numpy
+sympy
+pandas
+matplotlib
+seaborn
+dtale
+sweetviz
