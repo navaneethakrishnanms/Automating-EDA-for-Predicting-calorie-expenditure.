@@ -91,23 +91,6 @@ dtale.show(df).open_browser()
 
 
 
-📊 Example Visualizations
-
-Ages
-**Image 1:** Pepole who are distributed age wise
-![Alt Text](age.png)
-
-Correlation
-**Image 2:** Data's which are correlated
-![Alt Text](correlation.png)
-
-Heart Rate
-**Image 3:**Male and females heart rate in boxplot
-![Alt Text](heart_rate.png)
-
-
-
-
 📈 Insights
 
 Heart rate and duration strongly influence calorie expenditure.
